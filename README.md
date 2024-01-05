@@ -2,6 +2,7 @@
 Completed my first #aws DEMO-Project... Using Tiny Tech Tutorials Video: https://lnkd.in/eHj5J6GT
 
 The site effortlessly computes exponent results. Input your base and exponent value and the math will math itself.
+<img width="1912" alt="Screenshot 2024-01-03 at 12 40 39 PM" src="https://github.com/touristdave69/power-of-math-Demo/assets/145601015/48ef06af-ad7c-46aa-aa84-7a292a571b76">
 
 This application uses: Amplify, Lambda, IAM, API Gateway and DynamoDB.
 
