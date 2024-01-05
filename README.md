@@ -6,9 +6,16 @@ The site effortlessly computes exponent results. Input your base and exponent va
 This application uses: Amplify, Lambda, IAM, API Gateway and DynamoDB.
 
 *Amplify Hosts the Webpage
+<img width="1912" alt="amplify Deployment" src="https://github.com/touristdave69/power-of-math-Demo/assets/145601015/ab3ce2c5-bba1-43a3-9057-51ee2da9edcf">
+
 *API Gateway Invokes the Lambda math function
+
 *Lambda configures the math
+<img width="1912" alt="lambda function" src="https://github.com/touristdave69/power-of-math-Demo/assets/145601015/0faa7f21-45ea-497b-81d0-ad22bc4f48f9">
+
 *Dynamo DB stores/return the math results
+<img width="1912" alt="DynamoDB Database" src="https://github.com/touristdave69/power-of-math-Demo/assets/145601015/cd68d3db-4aab-4a7b-a91b-615bd731260d">
+
 *IAM sets permissions on the execution role for Lambda
 
 I edited the site appearance by using code from ChatGPT to give it a more neutral look.
